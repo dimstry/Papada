@@ -4,7 +4,7 @@ $konten="
     <div class='container-fluid d-flex justify-content-center'>
       <img src='assets/welcome/img/1.png' alt='welcome' width='350px' height='240px'>
     </div>
-    <div class='container'>
+    <div class='container mt-4'>
       <h2 class='text-left'>Hello, Welcome to Papada</h2>
        <q>
        tongkrongan kami bukan tongkrongan pecundang,kami siap membuktikan, melawan tongkrongan kampungan
