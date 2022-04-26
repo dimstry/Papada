@@ -7,7 +7,7 @@ $konten="
     <div class='container mt-4'>
       <h2 class='text-left'>Hello, Welcome to Papada</h2>
        <q>
-       tongkrongan kami bukan tongkrongan pecundang,kami siap membuktikan, melawan tongkrongan kampungan
+       tongkrongan kami bukan tongkrongan pecundang, kami siap membuktikan, melawan tongkrongan kampungan
        </q>
     </div>
     <div class='d-grid gap-2 mt-5'>
