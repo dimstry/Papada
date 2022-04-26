@@ -9,7 +9,7 @@ $konten= "
 						<div class='login-wrap p-4 p-md-5'>
 			      	<div class='d-flex'>
 			      		<div class='w-100'>
-			      			<h3 class='mb-4'>Sign In</h3>
+			      			<h3 class='mb-4'>Sign Up</h3>
 			      		</div>
 			      	</div>
 							<form action='#' class='signin-form'>
@@ -34,7 +34,7 @@ $konten= "
 		            	<button type='submit' class='form-control btn btn-primary rounded submit px-3'>Register</button>
 		            </div>
 		          </form>
-		          <p class='text-center'>Already a member? <a ' href='?page=login'>Login</a></p>
+		          <p class='text-center'>Already a member? <a ' href='?page=login'>Sign In</a></p>
 		        </div>
 		      </div>
 				</div>
