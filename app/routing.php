@@ -8,7 +8,7 @@
 		}
 		else
     {
-      include("pages/login.php")
+      include("pages/login.php");
     }
 	}
 	else
